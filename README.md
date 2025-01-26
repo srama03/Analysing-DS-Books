@@ -1,6 +1,24 @@
-## Analysing Data Science Books from Amazon Kindle
-As a student studying Data Science, I am always hunting for helpful literature in the domain. With the crazy amount of books in the market, it can get quite overwhelming and confusing when choosing a book. It is also very time-consuming to go through all the reviews and finding something that fits my needs.
+### Introduction
+As a student of Data Science, the hunt for quality literature in the field can often feel overwhelming. With the sheer number of books available, choosing the right one that fits specific needs can be both confusing and time-consuming. Reviews are often scattered, and finding actionable insights requires significant effort.
 
-With this motivation, the scope of my project is to use 2 levels of analysis on a datast of almost 1000 books on data science. I will not be looking into other niches (that might have a different characteristics and audience base).
+Motivated by these challenges, this project focuses on analyzing a dataset of nearly 1,000 books related to Data Science available on Amazon Kindle. By leveraging two levels of analysis, the goal is to simplify the book selection process for learners and professionals in the domain. This project excludes other niches, as they may exhibit different characteristics and target audiences.
+
+### Objective
+Within this project, I would like to explore the following:
+
+* EDA (Level 1):
+  * Do more expensive books have higher ratings?
+  * Do longer books tend to be more expensive?
+  * Top 5 books in Python Machine Learning, MS Excel
+    
+* Finding the main categories of books: TF-IDF and K-means (Level 2)
+
+### Tech Stack
+* Python
+* Pandas, NumPy
+* Scikit-learn (TF-IDF, KMeans)
+* Matplotlib, Seaborn
+
+
 
  
